@@ -1,0 +1,13 @@
+{
+  "name": "pagina-blog",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
